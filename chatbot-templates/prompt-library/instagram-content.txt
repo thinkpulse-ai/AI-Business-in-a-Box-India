@@ -1,7 +1,0 @@
-Generate 10 Instagram post ideas for [business type]
-
-Include:
-- Hook
-- Caption
-- CTA
-- Hashtags
