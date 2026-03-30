@@ -1,6 +1,0 @@
-Write a sales pitch for [business type]
-
-Include:
-- Hook
-- Offer
-- CTA
