@@ -1,9 +1,0 @@
-Act as a conversion expert.
-
-Create a landing page for:
-Business: [type]
-
-Include:
-- Headline
-- Benefits
-- CTA
